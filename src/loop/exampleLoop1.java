@@ -26,17 +26,15 @@ public class exampleLoop1 {
         int n = 10;
         for (int i = 1; i < n; i++) {
             sum += i;
-            System.out.println("sum + i: " + sum);
-            System.out.println();
         }
-        System.out.println("sum all : " + sum);
-
-        //penjumlahan angka dari 10 - 1
-        for (int i = n; i > 1; i--) {
-            sum += i;
-            System.out.println("sum + i: " + sum);
-            System.out.println();
-        }
-        System.out.println("sum all : " + sum);
+        System.out.println("1+2+3+4+5+6+7+8+9+10 = " + sum);
+//
+//        //penjumlahan angka dari 10 - 1
+//        for (int i = n; i > 1; i--) {
+//            sum += i;
+//            System.out.println("sum + i: " + sum);
+//            System.out.println();
+//        }
+//        System.out.println("sum all : " + sum);
     }
 }
