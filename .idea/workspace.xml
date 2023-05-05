@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="add loop files (contd)">
-      <change afterPath="$PROJECT_DIR$/src/loop/exampleDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/exampleWhile.java" afterDir="false" />
+    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="add while and dowhile files">
+      <change afterPath="$PROJECT_DIR$/src/arrays/array1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/array2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/exampleLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/exampleLoop1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/examplePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/examplePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,42 +34,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.examplePattern">
+}</component>
+  <component name="RunManager" selected="Application.array2D">
+    <configuration name="array1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.array1D" />
+      <module name="PD222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.array2D" />
+      <module name="PD222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exampleDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.exampleDoWhile" />
-      <module name="PD222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exampleLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.exampleLoop1" />
-      <module name="PD222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exampleNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.exampleNestedLoop" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array2D" />
+        <item itemvalue="Application.array1D" />
         <item itemvalue="Application.examplePattern" />
         <item itemvalue="Application.exampleDoWhile" />
         <item itemvalue="Application.exampleWhile" />
-        <item itemvalue="Application.exampleLoop1" />
-        <item itemvalue="Application.exampleNestedLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680653917500</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add while and dowhile files">
+      <created>1681205760018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681205760018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +180,7 @@
     <MESSAGE value="add control file" />
     <MESSAGE value="add loop files" />
     <MESSAGE value="add loop files (contd)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add loop files (contd)" />
+    <MESSAGE value="add while and dowhile files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add while and dowhile files" />
   </component>
 </project>
